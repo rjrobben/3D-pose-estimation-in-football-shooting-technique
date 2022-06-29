@@ -74,9 +74,3 @@ It will start the flask application and listens the the request from the fronten
 9 - comparision between two videos
 
 ![Alt text](./public/compare.png)
-
-Future Work:
-
-- Turn the web app into react native mobile app
-- tensorflow-lite for mobile app inference
-- or FireBase for cloud inference
